@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1679049971 source:/var/www/alice/forca.cpp
+	"forca.h"
+
+1679049971 /var/www/alice/forca.h
+	<iostream>
+
+1679050930 source:/var/www/alice/main.cpp
+	"forca.h"
+	"velha.h"
+
+1679050599 /var/www/alice/velha.h
+	<iostream>
+
+1679050766 source:/var/www/alice/velha.cpp
+	"velha.h"
+
+1679049971 source:/home/alunos/Downloads/alice/forca.cpp
+	"forca.h"
+
+1679049971 /home/alunos/Downloads/alice/forca.h
+	<iostream>
+
+1679654709 source:/home/alunos/Downloads/alice/main.cpp
+	"forca.h"
+	"velha.h"
+	"senha.h"
+
+1679050599 /home/alunos/Downloads/alice/velha.h
+	<iostream>
+
+1679050982 source:/home/alunos/Downloads/alice/velha.cpp
+	"velha.h"
+
+1679654703 source:/home/alunos/Downloads/alice/senha.cpp
+	"senha.h"
+
+1679654703 /home/alunos/Downloads/alice/senha.h
+	<iostream>
+
